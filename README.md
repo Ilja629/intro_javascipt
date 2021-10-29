@@ -1,2 +1,2 @@
-# intro_javascipt
+# intro_jav
 p
