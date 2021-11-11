@@ -1,2 +1,1 @@
-# # Projekta nosaukums
-## Apraksts
+
